@@ -510,7 +510,7 @@ if __name__ == "__main__":
     
 
     elasticModulus = 3 * 10**9 #the 10**9 is to convert Gpa to pa
-    memberWidth = 0.004 #3 mm
+    memberWidth = 0.004 #4 mm
     
     #plot settings
     diagramMemberLabels = False
